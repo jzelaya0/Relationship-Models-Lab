@@ -1,0 +1,3 @@
+development:
+    database: cookbook
+    adapter: postgresql
