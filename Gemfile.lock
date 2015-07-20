@@ -87,3 +87,6 @@ DEPENDENCIES
   sinatra-contrib
   thin
   tux (~> 0.3.0)
+
+BUNDLED WITH
+   1.10.4
